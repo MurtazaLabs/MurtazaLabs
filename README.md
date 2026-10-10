@@ -1,3 +1,5 @@
+![Murtaza Labs — AI Systems Banner](https://raw.githubusercontent.com/MurtazaLabs/MurtazaLabs/main/Murtaza%20Labs_%20AI%20Systems%20Banner.png)
+
 # MURTAZA LABS
 ### AI Systems · Intelligent Agents · Automation · Web Development
 
@@ -31,9 +33,8 @@ Have an AI idea, a workflow worth automating, or a website to build?
 
 I'm open to discussing projects in AI agents, knowledge assistants, automation, and web development.
 
-- **Website:** [Add your website URL]
-- **Email:** [Add your professional email]
-- **LinkedIn:** [Add your LinkedIn profile]
+- **Website:** In development
+- **Contact:** [Message me on GitHub](https://github.com/MurtazaLabs)
 
 ---
 
